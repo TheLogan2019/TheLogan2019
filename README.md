@@ -4,7 +4,7 @@
 
 <p align="center">Check back later for any projects I may add!</p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -44,4 +44,4 @@
 </a>
 </p>
 
-<h4 align="center">Should you want to work with me, please reach out at thelogan2019@gmail.com</h4>
+<p align="center">Should you want to work with me, please reach out at thelogan2019@gmail.com</p>
