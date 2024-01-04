@@ -2,7 +2,7 @@
 
 <p align="center">I am a very ambitious full stack developer located in Kansas. Over the past 5 years, I have built a career as a Technician and Technology specialist. As a Technician, I enjoyed the rare moments where I got to code and write scripts, but I found the rest of the job lacking. I needed something that allowed me to both grow, and show some creativity. Part of my education for Computer Support was a Course in Python, I have used that knowledge and experience to give myself a boost in this newfound world of Full Stack Development. I have discovered a drive for Frontend, and a fondness for Backend within myself that I cant wait to show off in a professional environment. If you're reading this, I hope to work with you soon!</p>
 
-<p align="center">Check back later for any projects I may add!</p>
+<p align="center">I am currently working on building my own personal website that doubles as a skills demonstration for potential employers. Please feel free to check out the pinned repository "Logan_Brown_Skills_Demonstration"!</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
