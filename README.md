@@ -2,7 +2,7 @@
 
 <p align="center">I am a very ambitious full stack developer located in Kansas. Over the past 5 years, I have built a career as a Technician and Technology specialist. As an IT Specialist, I enjoyed the rare moments where I got to code and write scripts, but I felt that the rest of the job was missing something. I needed something that allowed me to both grow, and show some creativity. Part of my education for Computer Support was a Course in Python, I have used that knowledge and experience to give myself a boost in this newfound world of Full Stack Development. I have discovered a drive for Frontend, and a fondness for Backend within myself that I cant wait to show off in a professional environment. If you're reading this, I hope to work with you soon!</p>
 
-<p align="center">I am currently working on building a Wedding application that aims to make a streamlined process for guests to RSVP</p>
+<p align="center">I am currently working on building a Wedding application that aims to make a streamlined process for guests to RSVP.</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
