@@ -1,5 +1,6 @@
 <h1 align="center">Hello, I'm Logan!</h1>
 
+<p align="center"> I am full stack developer who is currently focusing on my return to college. </p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
